@@ -9,10 +9,13 @@ I love creating seamless user experiences and am always eager to learn new techn
 - Flutter
 - Dart
 - DotNet Core MVC
+- C#
 - Firebase
 - RESTful APIs
 - JSON
 - Git
+- PHP
+- Python
 - Figma
 
 ### GitHub Stats:
