@@ -18,17 +18,6 @@ I love creating seamless user experiences and am always eager to learn new techn
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-- Flutter
-- Dart
-- DotNet Core MVC
-- C#
-- Firebase
-- RESTful APIs
-- JSON
-- Git
-- PHP
-- Python
-- Figma
 
 ### GitHub Stats:
 
