@@ -15,6 +15,6 @@ I love creating seamless user experiences and am always eager to learn new techn
 - Git
 - Figma
 
-### GitHub Stats
+### GitHub Stats:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bhumika2080&layout=compact)
