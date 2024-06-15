@@ -5,10 +5,15 @@ My primary focus is on mobile app development with Flutter. I have experience in
 
 I love creating seamless user experiences and am always eager to learn new technologies.
 
-## Languages and Technologies:
-- **Languages**: Dart, DotNet Core
-- **Technologies**: Flutter, Firebase, RESTful APIs, JSON
-- **Tools**: Git, Figma
+### Languages and Tools:
+- Flutter
+- Dart
+- DotNet Core MVC
+- Firebase
+- RESTful APIs
+- JSON
+- Git
+- Figma
 
 ### GitHub Stats
 
