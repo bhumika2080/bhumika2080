@@ -1,9 +1,14 @@
 # Hi! I'm Bhumika Baruwal 👋👋
-A passionate Flutter Developer.
+💡 Passionate Flutter Developer
 
-My primary focus is on mobile app development with Flutter. I have experience in backend development and SEO strategies, ensuring smooth and efficient applications. 
+I specialize in crafting high-quality mobile applications with Flutter, with a strong background in fintech solutions, while also having experience across diverse industries.
+📱 Expertise in Flutter app development for seamless cross-platform experiences
+💳 Proven experience in fintech applications (payments, remittances, transactions, etc.)
+🔗 Skilled in backend development for robust and scalable integrations
+🚀 Knowledge of SEO strategies to enhance app performance and visibility
+🌱 Constantly learning and exploring new technologies to deliver impactful solutions
 
-I love creating seamless user experiences and am always eager to learn new technologies.
+I enjoy transforming ideas into intuitive, efficient, and secure applications that users love.
 
 ### Languages and Tools:
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
