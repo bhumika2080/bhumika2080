@@ -33,4 +33,4 @@ I enjoy transforming ideas into **intuitive, efficient, and secure applications*
 
 ### GitHub Stats:
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bhumika2080&layout=compact?refresh-true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bhumika2080&layout=compact&theme=dark)
